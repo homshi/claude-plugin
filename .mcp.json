@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "homshi": {
+      "type": "http",
+      "url": "https://homshi.com/api/mcp"
+    }
+  }
+}

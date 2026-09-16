@@ -1,0 +1,16 @@
+{
+  "name": "homshi",
+  "description": "Homshi for contractors: the runbooks that use the Homshi connector well \u2014 pricing set-up, the first proposal, service calls, the weekly close, collections.",
+  "version": "1.20260.0",
+  "author": {
+    "name": "Homshi"
+  },
+  "homepage": "https://homshi.com",
+  "keywords": [
+    "homshi",
+    "contractor",
+    "proposals",
+    "pricing",
+    "invoices"
+  ]
+}
