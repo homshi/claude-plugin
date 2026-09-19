@@ -12,5 +12,6 @@
     "proposals",
     "pricing",
     "invoices"
-  ]
+  ],
+  "license": "MIT"
 }
